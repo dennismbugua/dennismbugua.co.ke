@@ -8,7 +8,7 @@ Hey there, fellow knowledge-seeker and creator! I'm elated to have you here at m
 
 **Tech Stack** 🛠️
 
-Crafted with the potent combination of ReactJS, Tailwind and Sanity (previously backend done in my favorite - Django and deployed in Digital Ocean), this blog is more than just a platform; it's a canvas for dynamic interactions and robust content management. It's a testament to the endless possibilities that technology offers.
+Crafted with the potent combination of NextJS, Tailwind and Sanity (previously backend done in my favorite - Django and deployed in Digital Ocean and ReactJS - what NextJS is built on), this blog is more than just a platform; it's a canvas for dynamic interactions and robust content management. It's a testament to the endless possibilities that technology offers.
 
 **Continuous Integration / Continuous Deployment (CI/CD)** 🔄
 
